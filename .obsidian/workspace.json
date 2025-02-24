@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "cccac1553737bcbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "01dc2ce919644234",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c08b472adb564de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematyka Dyskretna/Wyklad_24_02_25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wyklad_24_02_25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55c43a578ba0a035",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa36ff46054bfd32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9be0455e22cf8b72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b82d9641c51be849",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e67b19bcc98f00f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d7d0e3f955f2bf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d550519d9a23c96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c952f6ddca42f86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scenariusze/NAJLEPSZY Linux na studia okiem laika.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for NAJLEPSZY Linux na studia okiem laika"
+            }
+          },
+          {
+            "id": "03907a7f711fe18a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scenariusze/NAJLEPSZY Linux na studia okiem laika.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NAJLEPSZY Linux na studia okiem laika"
+            }
+          },
+          {
+            "id": "d5e2cbaf155bf8d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc169066801b538d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scenariusze/NAJLEPSZY Linux na studia okiem laika.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of NAJLEPSZY Linux na studia okiem laika"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c08b472adb564de5",
+  "lastOpenFiles": [
+    "Systemy Wbudowane/Wyklad1.md",
+    "Matematyka Dyskretna/Wyklad_24_02_25.md",
+    "Systemy Ekspertowe/Wyklad1.md",
+    "PioGameApi.md",
+    "Matematyka Dyskretna",
+    "Systemy Wbudowane",
+    "Systemy Ekspertowe",
+    "Best linux for students.md",
+    "Scenariusze/NAJLEPSZY Linux na studia okiem laika.md",
+    "Scenariusze"
+  ]
+}
